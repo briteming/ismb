@@ -1,6 +1,6 @@
-baseURL = "https://blog.isayme.org/"
+baseURL = "https://briteming.github.io/ismb/"
 languageCode = "en-us"
-title = "BLOG - ISAYME"
+title = "BLOG OF BRITE"
 theme = "harbor"
 summaryLength = 1
 
